@@ -1,9 +1,9 @@
 //v1.0
 require("dotenv").config()
 
-const PLAY_LIST_ID = "PL6ieINDEJNDOEF_DFEOJ3doeo"
+const PLAY_LIST_ID = "PLWAwzMQx4JneS_BaF8Dgg-mCjB7QaWuLE"
 const URL_DATA_BASE =
-	"https://api.github.com/repos/USER_NAME/REPOSITORY_NAME/contents/dataBase/dtBs.json"
+	"https://api.github.com/repos/RenzoSEO/botTelegram/contents/dataBase/dtBs.json"
 
 const MENSAJE_LISTA_LLENA = "...👀..."
 
